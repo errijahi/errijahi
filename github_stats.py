@@ -121,7 +121,7 @@ class Queries(object):
         endCursor
       }}
       nodes {{
-        nameWithOwner
+        nameWithErrijahi
         stargazers {{
           totalCount
         }}
@@ -157,7 +157,7 @@ class Queries(object):
         endCursor
       }}
       nodes {{
-        nameWithOwner
+        nameWithErrijahi
         stargazers {{
           totalCount
         }}
@@ -313,13 +313,13 @@ Languages:
                 repos += contrib_repos.get("nodes", [])
             else:
                 for repo in contrib_repos.get("nodes", []):
-                    name = repo.get("nameWithOwner")
+                    name = repo.get("nameWithErrijahi")
                     if name in self._ignored_repos or name in self._exclude_repos:
                         continue
                     self._ignored_repos.add(name)
 
             for repo in repos:
-                name = repo.get("nameWithOwner")
+                name = repo.get("nameWithErrijahi")
                 if name in self._repos or name in self._exclude_repos:
                     continue
                 self._repos.add(name)
