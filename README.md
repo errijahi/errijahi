@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/><br/>
-  
+
 #### Just some stats
 ![GitHub stats](https://github.com/errijahi/github-stats-transparent/blob/output/generated/overview.svg)
 ![Top Langs](https://github.com/errijahi/github-stats-transparent/blob/output/generated/languages.svg)
