@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working with Laravl.
+<br/><br/>
+  - 🔭 I’m currently working with Laravl.
+<br/><br/>
   
-## Just some stats
+#### Just some stats
 ![GitHub stats](https://github.com/errijahi/github-stats-transparent/blob/output/generated/overview.svg)
 ![Top Langs](https://github.com/errijahi/github-stats-transparent/blob/output/generated/languages.svg)
