@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ GitHub stats](https://https://github.com/errijahi/github-stats-transparent/blob/output/generated/overview.svg)]
-![Top Langs](https://github-readme-stats-s3nd-errijahi.vercel.app/api/top-langs/?username=errijahi&layout=compact&langs_count=20&show_icons=true&theme=radical)
-
-![MarineGEO circle logo](https://github.com/errijahi/github-stats-transparent/blob/output/generated/overview.svg)
+![GitHub stats](https://github.com/errijahi/github-stats-transparent/blob/output/generated/overview.svg)
+![Top Langs](https://github.com/errijahi/github-stats-transparent/blob/output/generated/languages.svg)
