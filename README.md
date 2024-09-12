@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- #### Just some stats
+#### Just some stats
 ![GitHub stats](https://github.com/errijahi/github-stats-transparent/blob/output/generated/overview.svg)
 ![Top Langs](https://github.com/errijahi/github-stats-transparent/blob/output/generated/languages.svg)
--->
