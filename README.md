@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 #### Just some stats
-![GitHub stats](https://github.com/errijahi/github-stats-transparent/blob/output/generated/overview.svg)
-![Top Langs](https://github.com/errijahi/github-stats-transparent/blob/output/generated/languages.svg)
+<!-- ![GitHub stats](https://github.com/errijahi/github-stats-transparent/blob/output/generated/overview.svg)
+![Top Langs](https://github.com/errijahi/github-stats-transparent/blob/output/generated/languages.svg) -->
